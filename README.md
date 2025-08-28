@@ -1,1 +1,1 @@
-# Quick_reward_vrecel_pwa
+# Quick-Reward-PWA
